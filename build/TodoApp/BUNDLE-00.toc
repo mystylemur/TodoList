@@ -1,0 +1,1 @@
+([('TodoApp', '/Users/ethan/assembly/dist/TodoApp', 'EXECUTABLE')],)
